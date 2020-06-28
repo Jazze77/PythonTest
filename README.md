@@ -1,1 +1,1 @@
-C# PythonTest consule application
+C# PythonTest console application
